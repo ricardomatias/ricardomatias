@@ -2,8 +2,8 @@
 
 sound/image **▽**
 
-ig: [@ricardomatiaspt](https://www.instagram.com/ricardomatiaspt)
-twitter: [@ricardomatiaspt](https://twitter.com/ricardomatiaspt)
+[![Twitter](icons/twitter.png)](https://twitter.com/ricardomatiaspt)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/ricardomatiaspt/)
 
 <!--
 **ricardomatias/ricardomatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
